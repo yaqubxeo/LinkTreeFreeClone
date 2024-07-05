@@ -1,5 +1,5 @@
 ---
 title: Twitter
 emoji: 🐦
-href: https://twitter.com/yOyO38](https://x.com/Mavenfrontend
+href: https://x.com/Mavenfrontend
 ---
